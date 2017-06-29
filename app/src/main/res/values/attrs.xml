@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CircleIndicatorView">
+        <attr name="largeSize" format="dimension"/>
+        <attr name="smallSize" format="dimension"/>
+        <attr name="grayColor" format="color"/>
+        <attr name="whiteColor" format="color"/>
+        <attr name="lineSpace" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
